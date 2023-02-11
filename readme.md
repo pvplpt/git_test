@@ -10,4 +10,15 @@
 7. **git** **checkout** <минимум 4 символа из номера комита>
 8. **git** **chechout** master
 9. **git** **diff**
- 
+
+# Введение в контроль версий(лекции). Урок 2
+
+## Команды git
+1. **git branch** 
+2. **git branch** <имя_ветки>
+3. **git checkout** <имя_ветки>
+4. **git merge** <имя_ветки> 
+5. **git branch** -d <имя_ветки> 
+6. **git log** --graph
+
+Файлик **.gitignore**
