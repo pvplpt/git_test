@@ -22,3 +22,17 @@
 6. **git log** --graph
 
 Файлик **.gitignore**
+
+# Введение в контроль версий(лекции). Урок 3
+
+1. **git clone** <url на GitHub>
+2. **git remote** add origin <url на GitHub>
+3. **git branch** -M main
+4. **git push** -u origin main
+5. **git push**
+6. **git pull**
+7. **git push** --set-upstream origin <имя ветки>
+
+Fork
+
+Pull request
