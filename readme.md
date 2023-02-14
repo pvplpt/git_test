@@ -25,6 +25,7 @@
 
 # Введение в контроль версий(лекции). Урок 3
 
+## Команды git
 1. **git clone** <url на GitHub>
 2. **git remote** add origin <url на GitHub>
 3. **git branch** -M main
@@ -32,6 +33,8 @@
 5. **git push**
 6. **git pull**
 7. **git push** --set-upstream origin <имя ветки>
+
+## GitHub
 
 Fork
 
