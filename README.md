@@ -41,3 +41,5 @@ Fork
 Pull request
 
 ## [Learn Git Branching](https://learngitbranching.js.org/)
+
+Тестирование работы с пулл реквестами!
