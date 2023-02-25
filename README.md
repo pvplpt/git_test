@@ -33,6 +33,7 @@
 5. **git push**
 6. **git pull**
 7. **git push** --set-upstream origin <имя ветки>
+8. **git reset** HEAD <имя_файла>
 
 ## GitHub
 
